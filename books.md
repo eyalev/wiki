@@ -1,6 +1,7 @@
 ### Decision Making ###
 * [Thinking, Fast and Slow](http://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555)
-
+ * Humans are irrational
+ * If you're know some irrationalities it helps you to avoid them
 
 ### Programming ###
 * [Refactoring: Ruby Edition](http://www.amazon.com/Refactoring-Ruby-Addison-Wesley-Professional-ebook/dp/B002TIOYWG/)
