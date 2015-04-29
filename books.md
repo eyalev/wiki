@@ -11,3 +11,15 @@
 
 ### Reading ###
 * [The Read-Aloud Handbook: Seventh Edition](http://www.amazon.com/The-Read-Aloud-Handbook-Seventh-Edition/dp/014312160X/ref=pd_sim_b_2?ie=UTF8&refRID=0JKZYAGD9B4SF5P6X4NH)
+
+### Business ###
+* [The Lean Startup](http://www.amazon.com/dp/B004J4XGN6/)
+  * Build-Measure-Learn
+  * Don't aim for perfect product
+* [Scrum: The Art of Doing Twice the Work in Half the Time](http://www.amazon.com/Scrum-Doing-Twice-Work-Half/dp/038534645X)
+  * Organization Transperancy
+  * Optimize for happiness
+  * Systems have a big influence on how people operate
+* [The Hard Thing About Hard Things](http://www.amazon.com/dp/B00DQ845EA)
+  * One-on-one meetings
+  * Have clear processes for compensation and promotions
