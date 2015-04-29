@@ -1,5 +1,6 @@
 # Wiki
 
-[Books](books.md)
+* [Books](books.md)
+* [Mental Models](mental_models.md)
+* [Thoughts](thoughts.md)
 
-[Mental Models](mental_models.md)
