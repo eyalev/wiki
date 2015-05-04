@@ -21,6 +21,10 @@
   * Organization Transperancy
   * Optimize for happiness
   * Systems have a big influence on how people operate
+  * From the book:
+  
+     > What are the things that actually make people happy? They’re the same things that make great teams: autonomy, mastery, and purpose. Or to say it more expansively, it’s the ability to control your own destiny, it’s the feeling that you’re getting better at something, and it’s knowing that you’re serving something bigger than yourself.
+
 * [The Hard Thing About Hard Things](http://www.amazon.com/dp/B00DQ845EA)
   * One-on-one meetings
   * Have clear processes for compensation and promotions
