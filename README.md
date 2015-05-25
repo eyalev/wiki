@@ -7,3 +7,4 @@
 * [Interesting](pages/interesting.md)
 * [Lists](lists.md)
 * [Today I Learned](til)
+* [Other](pages/other.md)
