@@ -8,4 +8,5 @@
 * [Interesting](pages/interesting.md)
 * [Lists](pages/lists.md)
 * [Today I Learned](til)
+* [Videos](pages/videos.md)
 * [Other](pages/other.md)
