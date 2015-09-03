@@ -12,6 +12,9 @@
 ### Programming
 * [Refactoring: Ruby Edition](http://www.amazon.com/Refactoring-Ruby-Addison-Wesley-Professional-ebook/dp/B002TIOYWG/)
 * [The Pragmatic Programmer: From Journeyman to Master](http://www.amazon.com/The-Pragmatic-Programmer-Journeyman-Master/dp/020161622X) (Partly)
+* [tmux](http://www.amazon.com/tmux-Productive-Development-Brian-Hogan-ebook/dp/B00A4I3ZVY)
+  * Takeaways:
+    * Keeping hands on the home row.
 
 #### Object Oriented Programming
 * [Practical Object-Oriented Design in Ruby: An Agile Primer](http://www.amazon.com/Practical-Object-Oriented-Design-Ruby-Addison-Wesley/dp/0321721330)
