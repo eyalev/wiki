@@ -9,4 +9,6 @@
 * [Lists](pages/lists.md)
 * [Today I Learned](til)
 * [Videos](pages/videos.md)
+- Tech
+  - [Ubuntu 18.04 Setup](pages/ubuntu_18_04.md)
 * [Other](pages/other.md)
