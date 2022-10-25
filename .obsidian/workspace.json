@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "83000d9c652e0e5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/test.md",
+                "file": "pages/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/test.md",
+                "file": "pages/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/test.md"
+                "file": "pages/Untitled.md"
               }
             }
           },
@@ -147,10 +160,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "706cd75249600c84",
+  "active": "83000d9c652e0e5a",
   "lastOpenFiles": [
-    "Daily/2022-10-25.md",
     "pages/test.md",
+    "Daily/2022-10-25.md",
     "pages/Obsidian.md",
     "README.md",
     "pages/Daily.md",
