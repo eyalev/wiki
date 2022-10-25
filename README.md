@@ -1,4 +1,4 @@
-# Wiki
+# Notes
 
 - [Books](pages/books.md)
 - [Reading](pages/reading.md)
@@ -7,7 +7,7 @@
 - [Newsletters](pages/newsletters.md)
 - [Interesting](pages/interesting.md)
 - [Lists](pages/lists.md)
-- [Today I Learned](til)
+- [Today I Learned](til/README.md)
 - [Videos](pages/videos.md)
 - Tech
   - [Ubuntu 18.04 Setup](pages/ubuntu_18_04.md)

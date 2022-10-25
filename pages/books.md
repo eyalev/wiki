@@ -2,7 +2,7 @@
 
 ## Sections
 
-* [Learning to Program Books](earning_to_program_books.md)
+* [Learning to Program Books](learning_to_program_books.md)
 
 ### Decision Making
 * [Thinking, Fast and Slow](http://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555)
