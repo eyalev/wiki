@@ -12,3 +12,6 @@
 - Tech
   - [Ubuntu 18.04 Setup](pages/ubuntu_18_04.md)
 - [Other](pages/other.md)
+- [Daily Notes](Daily/README.md)
+
+
