@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/test.md",
+                "file": "Daily/2022-10-25.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/test.md",
+                "file": "Daily/2022-10-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/test.md",
+                "file": "Daily/2022-10-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/test.md"
+                "file": "Daily/2022-10-25.md"
               }
             }
           },
@@ -149,8 +149,8 @@
   },
   "active": "706cd75249600c84",
   "lastOpenFiles": [
-    "Daily/2022-10-25.md",
     "pages/test.md",
+    "Daily/2022-10-25.md",
     "pages/Obsidian.md",
     "README.md",
     "pages/Daily.md",
