@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/test.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/test.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/test.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/test.md"
+                "file": "README.md"
               }
             }
           },
@@ -148,11 +148,11 @@
   },
   "active": "706cd75249600c84",
   "lastOpenFiles": [
-    "pages/Test4.md",
+    "Daily/2022-10-25.md",
     "pages/test.md",
+    "pages/Test4.md",
     "pages/Test2.md",
     "pages/Test3.md",
-    "Daily/2022-10-25.md",
     "pages/Obsidian.md",
     "README.md",
     "pages/Daily.md",

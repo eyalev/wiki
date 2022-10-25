@@ -12,6 +12,6 @@
 - Tech
   - [Ubuntu 18.04 Setup](pages/ubuntu_18_04.md)
 - [Other](pages/other.md)
-- [Daily Notes](Daily/README.md)
+- [Daily Notes](https://github.com/eyalev/wiki/tree/master/Daily)
 
 
