@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2022-10-25.md",
+                "file": "pages/test.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2022-10-25.md",
+                "file": "pages/test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2022-10-25.md",
+                "file": "pages/test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,24 +138,32 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2022-10-25.md"
+                "file": "pages/test.md"
               }
             }
+          },
+          {
+            "id": "eb76fe94f4f1b788",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "ribbon": {
     "mostRecentAction": ""
   },
   "active": "48ed29d68927bec0",
   "lastOpenFiles": [
-    "pages/Obsidian.md",
     "Daily/2022-10-25.md",
+    "pages/Obsidian.md",
     "README.md",
     "pages/Daily.md",
     "Daily/README.md",
