@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/Untitled.md",
+                "file": "pages/Test2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/Untitled.md",
+                "file": "pages/test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/Untitled.md",
+                "file": "pages/test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/Untitled.md"
+                "file": "pages/test.md"
               }
             }
           },
@@ -160,8 +159,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "83000d9c652e0e5a",
+  "active": "706cd75249600c84",
   "lastOpenFiles": [
+    "pages/Test2.md",
     "pages/test.md",
     "Daily/2022-10-25.md",
     "pages/Obsidian.md",
@@ -170,7 +170,6 @@
     "Daily/README.md",
     "consistant-report.md",
     "til/README.md",
-    "til.md",
-    "pages/books.md"
+    "til.md"
   ]
 }
