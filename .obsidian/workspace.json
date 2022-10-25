@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Daily/2022-10-25.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Daily/2022-10-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Daily/2022-10-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Daily/2022-10-25.md"
               }
             }
           }
@@ -154,14 +154,15 @@
   },
   "active": "48ed29d68927bec0",
   "lastOpenFiles": [
-    "Daily/README.md",
+    "pages/Obsidian.md",
     "Daily/2022-10-25.md",
-    "pages/test.md",
     "README.md",
+    "pages/Daily.md",
+    "Daily/README.md",
+    "pages/test.md",
     "consistant-report.md",
     "til/README.md",
     "til.md",
-    "pages/books.md",
-    "pages/learning_to_program_books.md"
+    "pages/books.md"
   ]
 }
